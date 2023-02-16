@@ -62,7 +62,7 @@ typings/
 .env
 
 # babel output
-lib
+#lib
 
 # End of https://www.gitignore.io/api/node
 docs
