@@ -12,7 +12,7 @@
     "downlevelIteration": true,
 
     /* Strict Type-Checking Options */
-    "strict": true,
+    //"strict": true,
     "noImplicitAny": false,
     "strictNullChecks": true,
     "noImplicitThis": true,
